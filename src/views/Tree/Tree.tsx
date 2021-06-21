@@ -2,7 +2,7 @@ import React, { FC } from 'react'
 
 const Tree: FC = () => {
   return (
-    <div>Tree</div>
+    <div className="tree-wrap">Tree</div>
   )
 }
 

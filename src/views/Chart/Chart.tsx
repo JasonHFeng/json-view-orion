@@ -2,7 +2,7 @@ import React, {FC} from 'react'
 
 const Chart: FC = () => {
   return (
-    <div>Chart</div>
+    <div className="chart-wrap">Chart</div>
   )
 }
 
