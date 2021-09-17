@@ -2,8 +2,9 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+    "serve": "vite preview",
     "build": "tsc && vite build",
-    "serve": "vite preview"
+    "bulid": "tsc && vite build --mode chrome"
   },
   "dependencies": {
     "antd": "^4.16.2",
